@@ -10,6 +10,7 @@
 2. **Sasniegumi:** 
     * Esmu dabūjis sertifikātu, ka protu angļu valodu.
     * Esmu piedalījies trījās angļu valodas olimpiādēs.
+    * Pie manis ir pienākuši modeļu aģenti divreiz. 
 
 
 3. **Izglītība:** 
@@ -21,6 +22,7 @@
     * Mācīties programmēšanas valodas brīvajā laikā.
     * Komunicēt un sadarboties ar cilvēkiem.
     * Pavadīt laiku laukā.
+    * Spēlēt bungas
 
 5. **Pieredze programmēšanā:**
     * Zinu Pyhton programmēšanas valodas pamatus
