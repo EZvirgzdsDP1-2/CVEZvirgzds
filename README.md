@@ -4,7 +4,7 @@
     * Edgars Zvirgzds 
     * 16 gadus vecs, 
     * Latvija, Rīga
-    * Attēls ar sevi https://raw.githubusercontent.com/EZvirgzdsDP1-2/CVEZvirgzds/main/cvattels.png
+    * Attēls ar sevi ![cv_attels](https://raw.githubusercontent.com/EZvirgzdsDP1-2/CVEZvirgzds/main/cvattels.png)
     
 
 
