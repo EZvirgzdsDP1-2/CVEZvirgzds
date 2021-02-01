@@ -13,8 +13,8 @@
 
 
 3. **Izglītība:** 
-    *Friču Brīvzemnieka pamatskola (pamatskolas izglītība).
-    *Pašreiz mācos Rīgas Valsts tehnikumā par datorsistēmu programmētāju pirmajā kursā.
+    * Friču Brīvzemnieka pamatskola (pamatskolas izglītība).
+    * Pašreiz mācos Rīgas Valsts tehnikumā par datorsistēmu programmētāju pirmajā kursā.
 
 
 4. **Hobiji:**
